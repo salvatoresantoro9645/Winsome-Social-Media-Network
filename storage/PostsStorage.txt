@@ -1,0 +1,155 @@
+[
+  {
+    "id": 0,
+    "title": "post1",
+    "content": "postUno",
+    "author": "salvo",
+    "creationTime": 1657626414200,
+    "likes": [
+      "paolo"
+    ],
+    "dislikes": [
+      "susanna"
+    ],
+    "comments": [
+      {
+        "author": "susanna",
+        "text": "Bel post 1"
+      },
+      {
+        "author": "susanna",
+        "text": "CIaooo"
+      },
+      {
+        "author": "paolo",
+        "text": "Bello"
+      },
+      {
+        "author": "susanna",
+        "text": "Bello"
+      },
+      {
+        "author": "susanna",
+        "text": "Carino"
+      }
+    ],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 219
+  },
+  {
+    "id": 1,
+    "title": "Casetta bella",
+    "content": "Vivo a garbagnate",
+    "author": "susanna",
+    "creationTime": 1657721481345,
+    "likes": [
+      "salvo"
+    ],
+    "dislikes": [],
+    "comments": [
+      {
+        "author": "salvo",
+        "text": "Bel post"
+      },
+      {
+        "author": "salvo",
+        "text": "ciao"
+      },
+      {
+        "author": "salvo",
+        "text": "ce"
+      },
+      {
+        "author": "salvo",
+        "text": "Caro"
+      },
+      {
+        "author": "salvo",
+        "text": "Bellina"
+      },
+      {
+        "author": "salvo",
+        "text": "bello"
+      }
+    ],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 219
+  },
+  {
+    "id": 2,
+    "title": "Mio odore",
+    "content": "sono una puzzona",
+    "author": "susanna",
+    "creationTime": 1657745049996,
+    "likes": [],
+    "dislikes": [],
+    "comments": [],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 219
+  },
+  {
+    "id": 3,
+    "title": "post mio",
+    "content": "Questo è il mio post",
+    "author": "susanna",
+    "creationTime": 1657788179438,
+    "likes": [
+      "salvo"
+    ],
+    "dislikes": [],
+    "comments": [
+      {
+        "author": "salvo",
+        "text": "Carino"
+      },
+      {
+        "author": "salvo",
+        "text": "Carinissimooo"
+      }
+    ],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 219
+  },
+  {
+    "id": 4,
+    "title": "Post n",
+    "content": "Mio altro post",
+    "author": "salvo",
+    "creationTime": 1657789033730,
+    "likes": [],
+    "dislikes": [],
+    "comments": [],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 219
+  },
+  {
+    "id": 5,
+    "title": "Lavoro",
+    "content": "sono un carpentiere",
+    "author": "mimmo",
+    "creationTime": 1657803194684,
+    "likes": [],
+    "dislikes": [],
+    "comments": [],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 140
+  }
+]

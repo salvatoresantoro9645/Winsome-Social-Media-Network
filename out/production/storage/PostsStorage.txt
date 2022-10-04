@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "postA",
+    "content": "Questo è il postA",
+    "author": "userA",
+    "creationTime": 1658136462106,
+    "likes": [],
+    "dislikes": [],
+    "comments": [],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 0
+  },
+  {
+    "id": 1,
+    "title": "postB",
+    "content": "Questo è il postB",
+    "author": "userB",
+    "creationTime": 1658136531473,
+    "likes": [],
+    "dislikes": [],
+    "comments": [],
+    "retweeters": [],
+    "newVotes": 0,
+    "newCommentsBy": [],
+    "newRaters": [],
+    "iterations": 0
+  }
+]

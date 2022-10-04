@@ -1,0 +1,42 @@
+#FILE DI CONFIGURAZIONE DEL SERVER
+
+# Tutte le righe vuote o che iniziano con '#' verranno ignorate.
+
+#   Indirizzo del server
+SERVER=127.0.0.1
+
+#   Porta TCP del server
+TCPPORT=6666
+
+#   Indirizzo di multicast
+MULTICAST=239.255.32.32
+
+#   Porta di multicast
+MCASTPORT=44444
+
+#   Host su cui si trova il registry
+REGHOST=localhost
+
+#   Porta del registry RMI
+REGPORT=7777
+
+#   Porta del registro RMI Callback
+REGPORTCB=3333
+
+#   Timeout della socket
+TIMEOUT=3600000
+
+#   Intervallo tra il calcolo di successive ricompense
+TIMEOUTREWARDS=90000
+
+#   Percentuale di guadagno dell'autore del post (%)
+AUTHORREWARD=70
+
+#   Intervallo tra un backup ed il successivo
+TIMEOUTSTORAGE=120000
+
+#   Name of users backup file
+USERSFILE=./../storage/UsersStorage.txt
+
+#   Name of posts backup file
+POSTSFILE=./../storage/PostsStorage.txt

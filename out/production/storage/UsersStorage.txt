@@ -1,0 +1,48 @@
+[
+  {
+    "username": "userA",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "tags": [
+      "hobbya",
+      "hobby1"
+    ],
+    "followers": [],
+    "following": [],
+    "wallet": {
+      "wincoin": 0.0,
+      "transactions": [
+        {
+          "amount": 0.0,
+          "timestamp": "18 lug. 2022 - 11:24:37"
+        },
+        {
+          "amount": 0.0,
+          "timestamp": "18 lug. 2022 - 11:24:57"
+        }
+      ]
+    }
+  },
+  {
+    "username": "userB",
+    "password": "20f3765880a5c269b747e1e906054a4b4a3a991259f1e16b5dde4742cec2319a",
+    "tags": [
+      "hobbyb",
+      "hobby1"
+    ],
+    "followers": [],
+    "following": [],
+    "wallet": {
+      "wincoin": 0.0,
+      "transactions": [
+        {
+          "amount": 0.0,
+          "timestamp": "18 lug. 2022 - 11:24:56"
+        },
+        {
+          "amount": 0.0,
+          "timestamp": "18 lug. 2022 - 11:24:57"
+        }
+      ]
+    }
+  }
+]

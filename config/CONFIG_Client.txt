@@ -1,0 +1,24 @@
+#FILE DI CONFIGURAZIONE DEL CLIENT
+
+# Tutte le righe vuote o che iniziano con '#' verranno ignorate.
+
+#   Indirizzo del server
+SERVER=127.0.0.1
+
+#   Porta TCP del server
+TCPPORT=6666
+
+#   Indirizzo di multicast
+MULTICAST=239.255.32.32
+
+#   Porta di multicast
+MCASTPORT=44444
+
+#   Host su cui si trova il registry
+REGHOST=localhost
+
+#   Porta del registry RMI
+REGPORT=7777
+
+#   Porta del registro RMI Callback
+REGPORTCB=3333
