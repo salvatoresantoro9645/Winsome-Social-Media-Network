@@ -40,5 +40,5 @@ There's a directory named "jar"; positioning inside that is possibile executing 
 putting on two different prompt the next two commmand:
   "java -jar Server.jar" & "java -jar Client.jar"
   
-# Warning
+# WARNING
 This project was developed for improve my java developing skills and to put in practice networks theory learned during the other section of the Computer Network course. In fact, it can contain some errors and some bad practices in developing a network java application.                        
